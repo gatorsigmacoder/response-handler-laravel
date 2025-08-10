@@ -27,7 +27,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "KipasAngin\\ResponseHandler\\ResponseServiceProvider"
+        "KipasAngin\\ResponseHandler\\ResponseHandlerServiceProvider"
       ]
     }
   },
